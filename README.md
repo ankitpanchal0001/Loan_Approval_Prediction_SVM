@@ -164,7 +164,7 @@ Through this project, I gained practical experience in:
 
 **Ankit Panchal**
 
-Aspiring AI/ML Engineer
+Aspiring DATA SCIENTIST
 
 GitHub: https://github.com/ankitpanchal0001
 

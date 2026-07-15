@@ -168,10 +168,10 @@ Aspiring AI/ML Engineer
 
 GitHub: https://github.com/ankitpanchal0001
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/ankitpanchal0001/
 
 ---
 
-## ⭐ If you found this project useful
+##  If you found this project useful
 
 Please consider giving this repository a **Star ⭐**.
